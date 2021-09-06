@@ -1,1 +1,1 @@
-# golang_goping
+这是一个用golang编写的,用于网络端口延迟测试的工具
