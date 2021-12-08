@@ -43,6 +43,7 @@ func main() {
 		defer conn.Close()
 		fmt.Printf("连接地址:%v ~~~  延迟:%v\n", url, time.Now().Sub(star_time))
 		time.Sleep(time.Second)
+		fmt.Println("test")
 	}
 
 }
